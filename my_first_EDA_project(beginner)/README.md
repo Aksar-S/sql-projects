@@ -45,4 +45,4 @@ This project showcases how I performed **data cleaning** and **exploratory analy
 
 Feel free to review the code or give feedback!
 
-LinkedIn - www.linkedin.com/in/aksar04
+- [LinkedIn](https://linkedin.com/in/aksar04)
